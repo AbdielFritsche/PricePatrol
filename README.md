@@ -1,4 +1,4 @@
-# WebScraping Project
+# PricePatrol
 
 ## Description
 This project is a web application in progress that uses Python along with Flask, Requests, Selenium, and Beautiful Soup to retrieve and display the best products from online stores such as Amazon, eBay, and Mercado Libre. The goal is to facilitate the search for featured products and their best deals.
@@ -19,3 +19,18 @@ Make sure you have Python 3.x installed on your system. You will also need to in
 
 ```bash
 pip install -r requirements.txt
+```
+
+## Usage
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/AbdielFritsche/PricePatrol.git
+   cd PricePatrol
+   ```
+2. Run the application:
+   ```bash
+      python app.py
+   ```
+
+##Work in Progress
+This project is under development and is continuously evolving. Some features are incomplete or not implemented, and there may be bugs.
